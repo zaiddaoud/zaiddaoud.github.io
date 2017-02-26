@@ -1,0 +1,30 @@
+.text-center{
+	text-align: center;
+}
+
+.btn-round{
+	border-radius: 10px;    <!-- radius of botton -->
+}
+
+.bg-image{
+	background-size: cover;
+	padding-top: 100px;
+	padding-bottom: 150px;
+	background-image: url('https://static1.squarespace.com/static/51c748abe4b0c275d0aa86bf/56141f2be4b0a4afc2d17505/56158c17e4b0e40a968cbfc4/1444252729492/dirk-980.gif?format=1500w')
+}
+
+.text-white{
+	color: white;
+	text-shadow: 2px 2px 2px black;
+}
+.menu-image{
+	background-size: cover;
+	background-image: url('white-background.jpg');
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.glyphicon{
+	color: black;
+	font-weight: 100;
+	size: large;
+}
