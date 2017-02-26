@@ -18,13 +18,15 @@
 	text-shadow: 2px 2px 2px black;
 }
 .menu-image{
-	background-size: cover;
 	background-image: url('white-background.jpg');
-	padding-top: 30px;
-	padding-bottom: 30px;
+	padding-top: 100px;
+	padding-bottom: 100px;
 }
 .glyphicon{
 	color: black;
 	font-weight: 100;
 	size: large;
+}
+.djsetimg{
+	padding
 }
